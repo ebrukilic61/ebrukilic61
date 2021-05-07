@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ebrukilic61
-- 👀 I’m interested in programming language because I'm a computer engineering student
+- 👀 I’m interested in programming languages because I'm a computer engineering student
 - 🌱 I’m currently learning python and c language
 - 💞️ I’m looking to collaborate on nothing. I'm just a learner for now.
 
